@@ -16,7 +16,7 @@ document.addEventListener('pointerup', (e) => {
     e.preventDefault();
 }, {passive: false})
 
-screen.orientation.lock('portrait-primary')
+window.screen.orientation.lock('portrait-primary')
 
 
 
