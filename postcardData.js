@@ -31,6 +31,7 @@ const myData = [
     {
         title: 'kisses from Narnia',
         text: `Chère Morgane,
+        \n J'ai trouvé une armoire enchantée en fait
         \n Coucou de Narnia, c'est pas mal, il y a des animaux qui parlent
         \n Biz Biz,
         \n PS: il y a un groupe de marmottes qui m'a invité à boire un coup ce soir`,
