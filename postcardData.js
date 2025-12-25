@@ -22,9 +22,9 @@ const myData = [
     {
         title: 'kisses from BRIVE-LA-GAILLARDE',
         text: `Chère Morgane,
-        \n Petit mot de BRIVE où il ne se passe rien et quelque part c'est pas si mal,
+        \n Petit mot de BRIVE où il ne se passe rien et quelque part c'est pas si mal
         \n Gros bisous,
-        \n PS: tout à l'heure je vais aller acheter une armoire, je suis sûr qu'il ne se passera rien de plus interressant.`,
+        \n PS: tout à l'heure je vais aller acheter une armoire, je suis sûr qu'il ne se passera rien de plus interressant`,
         stamp: 'Images/stampBrive.png',
         image: 'Images/postcardBrive.png'
     },
@@ -48,7 +48,7 @@ const myData = [
     },
     {
         title: 'kisses from 1945 England',
-        text: `Hello Morgane,
+        text: `Hello Miss Morgane,
         \n Shout out de l'Angleterre de 1945, le thé est dégueulasse et il pleut souvent 
         \n Best kisses,
         \n PS: Tu vas jamais me croire, mais j'ai rencontré la grand-mère d'Emma Watson, et je pense que j'ai ma chance...`,
@@ -76,7 +76,7 @@ const myData = [
     {
         title: 'kisses from Hell',
         text: `Salut Morgane,
-        \n J'ai choppé une gastro et suis tombé dans les escaliers (et ensuite je me suis fait dévorer par une araignée géante)
+        \n Pas croisé d'airaignée géante, mais j'ai choppé une gastro et je suis mort
         \n De chaleureuses bises,
         \n PS: il fait chaud on se croirait au Maroc, je vais voir si je peux pas négocier un deal pour un endroit plus frais`,
         stamp: 'Images/stampHell.png',
@@ -85,7 +85,7 @@ const myData = [
     {
         title: 'kisses from the North Pole',
         text: `Ho-ho-ho Morgane,
-        \n Je suis au pôle Nord, en mission pour assassiner le père Noël,*
+        \n Je suis au pôle Nord, en mission pour assassiner le père Noël, tu t'en doutes mais il fait super froid
         \n Bisous d'esquimaux (c'est avec le nez),
         \n PS: J'ai croisé un lutin qui s'appelle "Milena", je suis pété de rire`,
         stamp: 'Images/stampNorthPole.png',
@@ -93,7 +93,7 @@ const myData = [
     },
     {
         title: 'kisses from the Great War',
-        text: `Salut Morgane,
+        text: `Salutations Morgane,
         \n Désolé, j'ai pas trop eu le temps d'écrire. Il se passe trop de trucs, c'est un peu étouffant.
         \n Meilleures bises,
         \n PS: Après tout ça, je rêve trop de vacances à la plage`,
@@ -103,9 +103,9 @@ const myData = [
     {
         title: 'kisses from Hawaii',
         text: `Aloa Morgane,
-        \n Coucou de Hawai, j'ai essayé de draguer mais je me fais jeter parce que je suis gros, moche et que je sens mauvais. 
+        \n Coucou de Hawai, j'ai essayé de draguer mais je me fais jeter parce que je suis gros, moche et que je sens mauvais 
         \n Meilleurs bises,
-        \n PS: j'ai trouvé une lampe magique sur la plage, je vais souhaiter de revenir à des temps plus tranquilles (et aussi du déodorant)`,
+        \n PS: je prévois de revenir à des temps plus tranquilles (et aussi de m'acheter du déodorant)`,
         stamp: 'Images/stampHawaii.png',
         image: 'Images/postcardHawaii.png'
     }
