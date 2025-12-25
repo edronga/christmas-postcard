@@ -3,7 +3,7 @@
 function main(){
     const htmlData = getPostcardScreen(myData[0].text, myData[0].stamp)
     document.querySelector('#myContent').appendChild(htmlData)
-
+    new Image().src =  myData[0].image
 }
 
 document.addEventListener('pointerdown', (e) => {
