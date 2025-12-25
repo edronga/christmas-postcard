@@ -58,7 +58,7 @@ const myData = [
     {
         title: 'kisses from magical Scotland',
         text: `Good Morning Morgane,
-        \n Je fais de la randonnée dans des forêts en Ecosse (ça a pas trop marché avec Greta, elle a dit que j'étais gros, moche et que sentais mauvais)
+        \n Je fais de la randonnée dans des forêts en Ecosse (ça a pas trop marché avec Greta, elle a dit que j'étais gros, moche et que je sentais mauvais)
         \n Kiss cool,
         \n PS: j'ai vu une licorne tout à l'heure`,
         stamp: 'Images/stampScotland.png',
@@ -67,7 +67,7 @@ const myData = [
     {
         title: 'kisses from Hogwarts',
         text: `Ma chère Morgane,
-        \n Tu vas me dire que j'ai vachement de chance, mais j'ai trouvé Poudlard sans faire exprès, en vrai c'est un peu vieux et mal aéré
+        \n Tu vas me dire que j'ai vachement de c*l, mais j'ai trouvé Poudlard sans faire exprès, en vrai c'est un peu vieux et mal aéré
         \n Bisous magiques,
         \n PS: j'espère que je ne vais pas me faire dévorer par une araignée géante`,
         stamp: 'Images/stampHogwarts.png',

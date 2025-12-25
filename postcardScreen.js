@@ -44,6 +44,7 @@ function getPostcardScreen(postCardText = 'Chère Morgane,', imageStamp = 'Image
             r.style.textAlign = 'center'
             r.style.alignContent = 'center'
             r.style.fontFamily = 'cursive'
+            r.style.fontSize = '18px'
             r.innerHTML = contentText
             return r
         }()
