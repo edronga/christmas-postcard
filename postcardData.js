@@ -42,7 +42,7 @@ const myData = [
         text: `Très chère dame Morgane,
         \n Veuillez m'excuser pour l'absence de nouvelles depuis pléthore, mes sujets les marmittons me demandent enormément d'attention
         \n Veuillez accepter mes cordiales embrassades,
-        \n PS: J'en ai marre des marmottes, à la première ocaz je me barre`,
+        \n PS: J'en ai marre des marmottes, à la première occaz je me barre`,
         stamp: 'Images/stampNarnia2.png',
         image: 'Images/postcardNarnia2.png'
     },
@@ -66,7 +66,7 @@ const myData = [
     },
     {
         title: 'kisses from Hogwarts',
-        text: `Bonjour Morgane,
+        text: `Ma chère Morgane,
         \n Tu vas me dire que j'ai vachement de chance, mais j'ai trouvé Poudlard sans faire exprès, en vrai c'est un peu vieux et mal aéré
         \n Bisous magiques,
         \n PS: j'espère que je ne vais pas me faire dévorer par une araignée géante`,
@@ -75,7 +75,7 @@ const myData = [
     },
     {
         title: 'kisses from Hell',
-        text: `Salut Morgane,
+        text: `Adieu (?) Morgane,
         \n Pas croisé d'araignée géante, mais j'ai choppé une gastro et je suis mort
         \n De chaleureuses bises,
         \n PS: il fait chaud on se croirait au Maroc, je vais voir si je peux pas négocier un deal pour un endroit plus frais`,
@@ -103,7 +103,7 @@ const myData = [
     {
         title: 'kisses from Hawaii',
         text: `Aloa Morgane,
-        \n Coucou de Hawai, j'ai essayé de draguer mais je me fais jeter parce que je suis gros, moche et que je sens mauvais 
+        \n Coucou de Hawai, j'ai essayé de draguer mais je me suis fais jeter parce que je suis gros, moche et que je sens mauvais 
         \n Honi honi,
         \n PS: je prévois de revenir à des temps plus tranquilles (et aussi de m'acheter du déodorant)`,
         stamp: 'Images/stampHawaii.png',

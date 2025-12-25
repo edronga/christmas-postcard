@@ -19,6 +19,5 @@ document.addEventListener('pointerup', (e) => {
 window.screen.orientation.lock('portrait-primary')
 
 
-
 const navigation = new Navigation(myData)
 main();
