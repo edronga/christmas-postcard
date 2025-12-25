@@ -76,7 +76,7 @@ const myData = [
     {
         title: 'kisses from Hell',
         text: `Salut Morgane,
-        \n Pas croisé d'airaignée géante, mais j'ai choppé une gastro et je suis mort
+        \n Pas croisé d'araignée géante, mais j'ai choppé une gastro et je suis mort
         \n De chaleureuses bises,
         \n PS: il fait chaud on se croirait au Maroc, je vais voir si je peux pas négocier un deal pour un endroit plus frais`,
         stamp: 'Images/stampHell.png',
@@ -104,7 +104,7 @@ const myData = [
         title: 'kisses from Hawaii',
         text: `Aloa Morgane,
         \n Coucou de Hawai, j'ai essayé de draguer mais je me fais jeter parce que je suis gros, moche et que je sens mauvais 
-        \n Meilleurs bises,
+        \n Honi honi,
         \n PS: je prévois de revenir à des temps plus tranquilles (et aussi de m'acheter du déodorant)`,
         stamp: 'Images/stampHawaii.png',
         image: 'Images/postcardHawaii.png'
